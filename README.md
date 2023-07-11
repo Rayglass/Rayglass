@@ -1,4 +1,4 @@
-![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://www.vectorstock.com/royalty-free-vector/banner-software-development-programming-web-site-vector-38004015))
+![MasterHead](https://rishavchanda.io](https://www.vectorstock.com/royalty-free-vector/banner-software-development-programming-web-site-vector-38004015))
 
 
 
