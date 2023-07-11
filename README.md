@@ -1,5 +1,3 @@
-![MasterHead](https://www.vectorstock.com/royalty-free-vector/banner-software-development-programming-web-site-vector-38004015)
-
 
 
 <h1 align="center">Hi 👋, I'm Ray Glass</h1>
