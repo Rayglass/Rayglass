@@ -3,7 +3,7 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/007/623/233/small/3d-illustration-education-tablet-with-education-icons-on-on-hi-tech-background-education-banner-vector.jpg)
 
 
-https://cdn1.vectorstock.com/i/1000x1000/40/15/banner-software-development-programming-web-site-vector-38004015.jpg
+
 
 <h1 align="center">Hi 👋, I'm Ray Glass</h1>
 <h3 align="center">"Unlocking the Full Potential: A Passionate Full Stack Developer!"</h3>
