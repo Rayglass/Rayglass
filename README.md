@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Capstone Project with Codeup**
 
-- 🌱 I’m currently learning **Srping Framework and MYSQL**
+- 🌱 I’m currently learning **Spring Framework and MYSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rayglass](https://github.com/Rayglass)
 
@@ -23,4 +23,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayglass&show_icons=true&locale=en&layout=compact" alt="rayglass" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayglass&show_icons=true&locale=en" alt="rayglass" /></p>
