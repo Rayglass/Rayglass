@@ -1,7 +1,6 @@
 
-![MasterHead](https://cdn.vectorstock.com/i/1000x1000/40/15/banner-software-development-programming-web-site-vector-38004015.webp](https://img.freepik.com/premium-vector/web-development-programming-laptop-smartphone_73903-163.jpg?w=2000))
 
-
+![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/007/623/233/small/3d-illustration-education-tablet-with-education-icons-on-on-hi-tech-background-education-banner-vector.jpg)
 
 
 https://cdn1.vectorstock.com/i/1000x1000/40/15/banner-software-development-programming-web-site-vector-38004015.jpg
