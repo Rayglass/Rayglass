@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn1.vectorstock.com/i/1000x1000/40/15/banner-software-development-programming-web-site-vector-38004015.jpg))]
 
 
 <h1 align="center">Hi 👋, I'm Ray Glass</h1>
