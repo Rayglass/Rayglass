@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/007/623/233/small/3d-illustration-education-tablet-with-education-icons-on-on-hi-tech-background-education-banner-vector.jpg)
+![MasterHead](https://www.vecteezy.com/vector-art/7623233-3d-illustration-education-tablet-with-education-icons-on-on-hi-tech-background-education-banner)
 
 
 
