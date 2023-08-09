@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayglass&label=Profile%20views&color=0e75b6&style=flat" alt="rayglass" /> </p>
 
-- 🔭 I’m currently working on **Capstone Project with Codeup**
+- 🔭 I’m currently working on **Code, code, and more coding.**
 
-- 🌱 I’m currently learning **Spring Framework and MYSQL**
+- 🌱 I’m currently learning **React and VueJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rayglass](https://github.com/Rayglass)
 
