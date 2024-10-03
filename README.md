@@ -1,7 +1,3 @@
-![MasterHead](https://illuminatingdiscovery.wisc.edu/wp-content/uploads/2019/04/EmergingTechnologies.jpg)
-
-
-
 <h1 align="center">Hi 👋, I'm Ray Glass</h1>
 <h3 align="center">"Unlocking the Full Potential: A Passionate Full Stack Developer!"</h3>
 
