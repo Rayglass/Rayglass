@@ -63,7 +63,7 @@
 - Homelab ideas to grow help desk → NOC/SOC skills
 
 ### 📫 Reach Me
-- **Email:** raymond.allen.glass@gmail.com  
+- **Email:** raymond.glass@live.com
 - **LinkedIn:** <a href="https://linkedin.com/in/raglass">raglass</a>
 
 ---
